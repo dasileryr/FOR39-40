@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dzadv\\source\\repos\\for39\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F3287F-5B0E-4025-A7B7-60E86B5C556C}|for39\\for39.vcxproj|C:\\Users\\dzadv\\source\\repos\\for39\\for39\\for39.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1F3287F-5B0E-4025-A7B7-60E86B5C556C}|for39\\for39.vcxproj|solutionrelative:for39\\for39.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "for39.cpp",
+              "DocumentMoniker": "C:\\Users\\dzadv\\source\\repos\\for39\\for39\\for39.cpp",
+              "RelativeDocumentMoniker": "for39\\for39.cpp",
+              "ToolTip": "C:\\Users\\dzadv\\source\\repos\\for39\\for39\\for39.cpp",
+              "RelativeToolTip": "for39\\for39.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-04T12:44:37.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
